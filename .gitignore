@@ -1,3 +1,4 @@
 build/*
 integration_test/build/*
 unit_test/build/*
+.rake_tasks~
